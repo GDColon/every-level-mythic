@@ -1,0 +1,46 @@
+{
+	"geode": "2.0.0",
+	"gd": {
+		"win": "2.204",
+		"android": "2.205"
+	}, 
+	"version": "v1.0.0",
+	"id": "colon.allmythic",
+	"name": "Every Level is Mythic",
+	"developer": "Colon",
+	"description": "Makes every level Mythic, so nobody ever complains again.",
+	"repository": "https://github.com/GDColon/every-level-mythic",
+
+	"settings": {
+		"enabled": {
+            "name": "Enable",
+            "description": "Toggles this mod on or off.",
+            "type": "bool", "default": true
+        },
+        "mythic0": {
+            "name": "Non-featured Levels",
+            "description": "0 = No feature\n1 = Featured\n2 = Epic\n3 = Legendary\n4 = Mythic.",
+            "type": "int", "min": 0, "max": 4, "default": 4
+        },
+		"mythic1": {
+            "name": "Featured Levels",
+            "description": "0 = No feature\n1 = Featured\n2 = Epic\n3 = Legendary\n4 = Mythic.",
+            "type": "int", "min": 0, "max": 4, "default": 4
+        },
+		"mythic2": {
+            "name": "Epic Levels",
+            "description": "0 = No feature\n1 = Featured\n2 = Epic\n3 = Legendary\n4 = Mythic.",
+            "type": "int", "min": 0, "max": 4, "default": 4
+        },
+		"mythic3": {
+            "name": "Legendary Levels",
+            "description": "0 = No feature\n1 = Featured\n2 = Epic\n3 = Legendary\n4 = Mythic.",
+            "type": "int", "min": 0, "max": 4, "default": 4
+        },
+		"mythic4": {
+            "name": "Mythic Levels",
+            "description": "0 = No feature\n1 = Featured\n2 = Epic\n3 = Legendary\n4 = Mythic.",
+            "type": "int", "min": 0, "max": 4, "default": 4
+        }
+    }
+}
