@@ -1,6 +1,6 @@
 # Every Level is Mythic
 
-Are you tired of your favorite levels getting robbed of Mythic?
+Are you tired of your favorite levels getting **rob**bed (pun intended) of Mythic?
 
 Now every level can be Mythic!
 
